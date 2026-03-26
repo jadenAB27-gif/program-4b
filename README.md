@@ -1,13 +1,11 @@
-# program-4-d-
+# program-4b
 C module 4
 
-EX NO:4-d) Count the number of punctuation characters. 
+EX NO:4-b) Count the number of punctuation characters. 
 
-Date:19/10/2025 
-
-Name: VASANTH S 
-
-Ref no: 25017538
+Date: 26/03/26
+Name: JADEN SAMUEL ABRAHAM
+Ref no: 25003451
 
 AIM:
 To write a C program to count the number of punctuation characters in a given string.
